@@ -10,16 +10,23 @@ Steps followed:
 1. Check and remove duplicates
 
 2. Uni-variate analysis:
+
 a) Identify the type of each feature
+
 b) Calculate Mean, median, quantiles for continues
+
 c) Plot a histogram or frequency tables for categorical
 
 3. Outliers:
+
 a) Identify the outliers, if any
+
 b) Choose the correct treatment to remove them
 
 4. Missing values:
+
 a) Identify missing values
+
 b) Impute missing values with your preferred way
 
 5. Transform categorical variables

@@ -1,6 +1,7 @@
-# DATA ANALYTICS - CLEANING, SCALING AND VISUALIZATION
+# DATA ANALYTICS
+## Cleaning, Scaling and Visualization
 
-## Preprocessing
+### Preprocessing
 
 With a given data set containing the details of a bank's customer list (`./data/churn_data_before_preprocessing.csv`), here's an example on how to use preprocessing techniques in order to be able to clean and transform the dataset.
 
@@ -25,6 +26,6 @@ b) Impute missing values with your preferred way
 
 6. Scale the data set
 
-## Visualization
+### Visualization
 
-(UNDER CONSTRUCTION)
+**(UNDER CONSTRUCTION)**

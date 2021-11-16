@@ -52,6 +52,9 @@ iii. Credit Score
 3. Combine all of the above visualisations into a subplot.
 
 4. Get the correlation between all columns using df.corr(). Create a bar plot that shows the correlation of each feature with the target:
-  4.1. Order the bars so that the feature with the highest correlation is the first bar. 
-  4.2. Add the correlation value to the top of each bar
-  4.3. Add a line to the figure which shows the average correlation (hint: This will require adding an extra trace).
+
+    a) Order the bars so that the feature with the highest correlation is the first bar
+    
+    b) Add the correlation value to the top of each bar
+    
+    c) Add a line to the figure which shows the average correlation (hint: This will require adding an extra trace)
